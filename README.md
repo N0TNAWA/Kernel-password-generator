@@ -9,3 +9,5 @@ os library (usually installed by default)
 colorama library
 
 DAS BOUT IT
+
+also epic cool new delete system
